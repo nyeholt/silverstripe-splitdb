@@ -1,5 +1,9 @@
 <?php
 
+if (!class_exists('MySQLDatabase')) {
+	return;
+}
+
 /**
  * A read/write splitting mysql database
  * 

@@ -1,5 +1,9 @@
 <?php
 
+if (!class_exists('SQLite3Database')) {
+	return;
+}
+
 /**
  * A read/write splitting mysql database
  * 
