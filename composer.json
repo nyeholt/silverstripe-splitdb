@@ -15,6 +15,7 @@
 		"silverstripe/multivaluefield": "~2.0"
 	},
 	"extra": {
+		"installer-name": "splitdb",
 		"branch-alias": {
 			"dev-master": "1.0.x-dev"
 		}
