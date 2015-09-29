@@ -1,4 +1,4 @@
-# SilverStripe Aspects module
+# SilverStripe Split Database module
 
 This module contains an implementation of Read/Write splitting for database 
 queries to allow for master/slave database implementations

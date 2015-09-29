@@ -1,0 +1,23 @@
+{
+	"name": "silverstripe-australia/silverstripe-splitdb",
+	"description": "Provides functionality to configure separate read/write database connections",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "database"],
+	"license": "BSD-3-Clause",
+	"authors": [
+	{
+		"name": "Marcus Nyeholt",
+		"email": "marcus@silverstirpe.com.au"
+	}
+	],
+	"require":
+	{
+		"silverstripe/multivaluefield": "~2.0"
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		}
+	}
+
+}
